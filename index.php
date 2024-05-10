@@ -12,6 +12,7 @@
     <main>
         <?php include "components/sidebar.php"?>
     </main>
+
 </body>
 
 </html>
