@@ -9,21 +9,21 @@
 
 ## How to Run 
 
-#### Clone my repository
+#### 1. Clone my repository
 
 ```sh
 git clone https://github.com/naufalnrsmitter20/CRUD_Perusahaan.git
 ```
 
-#### Open XAMPP and start Apache & MySql
+#### 2. Open XAMPP and start Apache & MySql
 
-#### Install DevDependencies TailwindCSS
+#### 3. Install DevDependencies TailwindCSS
 
 ```sh
 npm install
 ```
 
-#### Start Projects
+#### 4. Start Projects
 
 ```sh
 npm start
