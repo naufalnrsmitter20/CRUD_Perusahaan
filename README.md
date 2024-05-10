@@ -17,6 +17,8 @@ git clone https://github.com/naufalnrsmitter20/CRUD_Perusahaan.git
 
 #### 2. Open XAMPP and start Apache & MySql
 
+![Xampp](https://github.com/naufalnrsmitter20/CRUD_Perusahaan/blob/main/img/XAMPP.jpg?raw=true)
+
 #### 3. Install DevDependencies TailwindCSS
 
 ```sh
@@ -38,4 +40,6 @@ npm start
 
 
 ## Entity Relational Database (ERD)
+
+![ERD](https://github.com/naufalnrsmitter20/CRUD_Perusahaan/blob/main/img/Entity.jpg?raw=true)
 
