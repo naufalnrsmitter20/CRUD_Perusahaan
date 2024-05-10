@@ -38,6 +38,27 @@ npm start
 
 ## Pages
 
+### 1. Pegawai
+
+### 2. Proyek
+
+### 3. Pemasok
+
+- tampil_pemasok.php
+  ![tampil_pemasok.php](https://github.com/naufalnrsmitter20/CRUD_Perusahaan/blob/main/pemasok/img/view_pemasok.jpg?raw=true)
+- tambah_pemasok.php
+  ![tambah_pemasok.php](https://github.com/naufalnrsmitter20/CRUD_Perusahaan/blob/main/pemasok/img/add_pemasok.jpg?raw=true)
+- proses_tambah_pemasok.php
+  ![proses_tambah_pemasok.php](https://github.com/naufalnrsmitter20/CRUD_Perusahaan/blob/main/pemasok/img/success_add_pemasok.jpg?raw=true)
+- ubah_pemasok.php
+  ![ubah_pemasok.php](https://github.com/naufalnrsmitter20/CRUD_Perusahaan/blob/main/pemasok/img/edit_pemasok.jpg?raw=true)
+- proses_ubah_pemasok.php
+  ![proses_ubah_pemasok.php](https://github.com/naufalnrsmitter20/CRUD_Perusahaan/blob/main/pemasok/img/success_edit_pemasok.jpg?raw=true)
+- hapus_pemasok.php
+  ![hapus_pemasok.php](https://github.com/naufalnrsmitter20/CRUD_Perusahaan/blob/main/pemasok/img/delete_pemasok.jpg?raw=true)
+- proses_hapus_pemasok.php
+  ![proses_hapus_pemasok.php](https://github.com/naufalnrsmitter20/CRUD_Perusahaan/blob/main/pemasok/img/success_delete_pemasok.jpg?raw=true)
+
 
 ## Entity Relational Database (ERD)
 
