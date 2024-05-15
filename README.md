@@ -43,10 +43,14 @@ npm start
 ### 2. Proyek
 
 - proyek.php
-  
+  ![tampil_pemasok.php](https://github.com/naufalnrsmitter20/CRUD_Perusahaan/blob/main/proyek/img/proyek.png?raw=true)
 - proyek_baru.php
+  ![tampil_pemasok.php](https://github.com/naufalnrsmitter20/CRUD_Perusahaan/blob/main/proyek/img/tambah_proyek.png?raw=true)
 - ubah_proyek.php
+  ![tampil_pemasok.php](https://github.com/naufalnrsmitter20/CRUD_Perusahaan/blob/main/proyek/img/ubah_proyek.png?raw=true)
 - hapus_proyek.php
+  ![tampil_pemasok.php](https://github.com/naufalnrsmitter20/CRUD_Perusahaan/blob/main/proyek/img/hapus_proyek.png?raw=true)
+  ![tampil_pemasok.php](https://github.com/naufalnrsmitter20/CRUD_Perusahaan/blob/main/proyek/img/proyek_after_deleted.png?raw=true)
 
 ### 3. Pemasok
 
