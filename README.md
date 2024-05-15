@@ -42,6 +42,12 @@ npm start
 
 ### 2. Proyek
 
+- proyek.php
+  
+- proyek_baru.php
+- ubah_proyek.php
+- hapus_proyek.php
+
 ### 3. Pemasok
 
 - tampil_pemasok.php
